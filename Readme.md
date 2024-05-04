@@ -1,6 +1,6 @@
 # Resources for Summer :
 
-Utilize this summer to learn and grow. Here are some resources to help you get started. Sheet by [Swarnendu](github.com/Swarnendu0123). Follow for more updates.
+Utilize this summer to learn and grow. Here are some resources to help you get started. Sheet by [Swarnendu](https://github.com/Swarnendu0123). Follow for more updates.
 
 ## Competitive Programming (CP):
 
