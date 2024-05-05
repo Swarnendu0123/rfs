@@ -4,8 +4,9 @@ Utilize this summer to learn and grow. Here are some resources to help you get s
 
 ## Competitive Programming (CP):
 
-1. [TLE Eliminators - by Priyansh](https://youtube.com/playlist?list=PLcXpkI9A-RZLUfBSNp-YQBCOezZKbDSgB&si=GOwITYaWGv2WooAL)
-2. [Strivers-cp-sheet](https://takeuforward.org/interview-experience/strivers-cp-sheet)
+1. [CP 31](https://www.tle-eliminators.com/cp-sheet)
+2. [TLE Eliminators - by Priyansh](https://youtube.com/playlist?list=PLcXpkI9A-RZLUfBSNp-YQBCOezZKbDSgB&si=GOwITYaWGv2WooAL)
+3. [Strivers-cp-sheet](https://takeuforward.org/interview-experience/strivers-cp-sheet)
 
 ## Data Str and Algo (DSA):
 
@@ -20,7 +21,7 @@ Utilize this summer to learn and grow. Here are some resources to help you get s
 1. [Web3 Developer in 2024 Roadmap: Solidity, Smart Contract, and Blockchain Development [Full Course]](https://youtu.be/jYEqoIeAoBg?si=CAiNvPCdOeDloWYs)
 2. [Solidity Tutorial - 5 Hours | Solidity 3 Projects | Code Eater - Blockchain | English](https://youtu.be/rpa6XWSYvtg?si=ajsMlRHAAlEbpg5e)
 3. [Solidity Tutorial for Beginners - Full Course in 4 Hours (2023)](https://youtu.be/AYpftDFiIgk?si=b_RQWv-jdZ58ihe0)
-4. [FULL Web3 Roadmap in 2023 (And how to create your own token)](https://youtu.be/Tvf7CXEjFNU?si=VEBCNgQopn0JyC74)
+4. [Complete Web3 Bootcamp - Learning ETH smart contracts](https://youtu.be/Tvf7CXEjFNU?si=VEBCNgQopn0JyC74)
 5. [FULL Web3 Roadmap in 2023 (And how to create your own token)](https://youtu.be/8NeZgmSfbYg?si=kBAYrm5u5kobh85f)
 
 ## Machine Learning:
