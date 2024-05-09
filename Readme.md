@@ -2,6 +2,10 @@
 
 Utilize this summer to learn and grow. Here are some resources to help you get started. Sheet by [Swarnendu](https://github.com/Swarnendu0123). Follow for more updates.
 
+## Angular:
+
+1. [Angular for beginner](https://youtu.be/3qBXWUpoPHo?si=rH335o2qxl79F4rl)
+
 ## Competitive Programming (CP):
 
 1. [CP 31](https://www.tle-eliminators.com/cp-sheet)
